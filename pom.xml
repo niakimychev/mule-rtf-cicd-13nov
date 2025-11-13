@@ -2,13 +2,13 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <!-- groupID must be the business group ID or ORGID -->
-    <groupId>30c778fb-5ad6-4a6f-808a-44b572b617ce</groupId>
-    <artifactId>rtf-sample-java17</artifactId>
+    <groupId>abb84e7e-2dd2-473e-aabf-c51a0c3c84df</groupId>
+    <artifactId>greetings-app</artifactId>
     <!-- This version is immutable, need to bump for every deployment-->
     <version>1.0.0</version>
     <packaging>mule-application</packaging>
     
-    <name>rtf-sample-java17</name>
+    <name>greetings-app</name>
     
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
